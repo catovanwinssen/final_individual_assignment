@@ -1,0 +1,35 @@
+body{
+	background-image: url(../images/cloud.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: grey;
+}
+
+
+.jumbotron{
+	margin-top: 120px;
+	padding-bottom: 20px;
+	padding-top: 35px;
+	opacity: 0.9;
+}
+
+.icoon img{
+	width: 100px;
+  margin-top: 200px;
+	margin-left: 50px;
+}
+
+.icoon img:hover{
+	margin-left: 45px;
+}
+
+.Title h1{
+	color: white;
+	text-align: center;
+	font-size: 8em;
+	margin-top: 100px;
+}
+
+.onderdelen{
+	margin-top: 130px;
+}
